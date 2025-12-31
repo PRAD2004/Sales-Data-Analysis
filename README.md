@@ -24,7 +24,7 @@ Project Steps:-
           Added columns such as Year, Month, Quarter, and Day.
           Marked the table as a Date Table in Power BI.
     4)Data Modeling
-          Built relationships between the calendar table and fact tables.
+          Built relationships between the calendar table and Sales tables.
           Ensured a star schema for optimal performance and clarity.
     5)Measures Creation
           Created DAX measures for key metrics and KPIs.
